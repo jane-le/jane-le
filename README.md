@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my Github!👋
+
+Here you'll find some stuff I like to work on in my free time. 
+
+Fast facts: 
+- 📚 Education - Mechatronics Engineering at the University of Waterloo.
+- 🌱 Plants - I own and care for 25+ different house plants.
+- 🐈 Cats - One named Fluffina and one named Kitty Kitty.
+- 🎮 Video games - Obsessed with Stardew Valley and tetris!
+- 🧗‍♀️ Physical activity - Newbie climber.
+- ➕ Extras - Interested in gourmet candy, sustainable & ethical fashion, and boiled eggs.
 
 <!--
 **jane-le/jane-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

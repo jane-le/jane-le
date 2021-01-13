@@ -8,7 +8,6 @@ Fast facts:
 - 🐈 Cats - One named Fluffina and one named Kitty Kitty.
 - 🎮 Video games - Obsessed with Stardew Valley and tetris!
 - 🧗‍♀️ Physical activity - Newbie climber.
-- ➕ Extras - Interested in gourmet candy, sustainable & ethical fashion, and boiled eggs.
 
 <!--
 **jane-le/jane-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
